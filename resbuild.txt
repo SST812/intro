@@ -3,3 +3,7 @@ welcome to github
 created repository
 created new file
 commited with comment 
+
+cross checked 3 commits
+
+thanks and regards
